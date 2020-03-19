@@ -25,6 +25,8 @@ pip install pygame
 
 ⚠ Il faut supprimer les fichier readme.md dans chaque dossier !
 
+⚠ Sur le programme, il faut changer les 4 prèmières lignes en fonction de vos dossiers, attention a bien mettre "\\" entre chaque dossier.
+
 ⚠ Les pubs doivent être renomées en 1.mp3 pour la première et 2.mp3 pour la deuxième
 
 ℹ Les pubs sont lancées à chaque xxh00 et les pubs a chaque xxh30
