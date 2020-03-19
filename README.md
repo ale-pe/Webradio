@@ -29,4 +29,4 @@ pip install pygame
 
 ⚠ Les pubs doivent être renomées en 1.mp3 pour la première et 2.mp3 pour la deuxième
 
-ℹ Les pubs sont lancées à chaque xxh00 et les pubs a chaque xxh30
+ℹ Le Top Horaire est lancé à chaque xxh00 et les pubs a chaque xxh30
